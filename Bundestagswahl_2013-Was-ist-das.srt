@@ -266,72 +266,103 @@ wieviele Kandidaten in den Bundestag dürfen.
 
 51
 00:03:14,999 --> 00:03:20,299
-Wenn also ein Partei - nennen wir sie die
-"Hippo-Partei" - in 70 Wahlkreisen die Erststimmen
+如果一个党派，
+Wenn also ein Partei 
+比方说“河马党”吧，
+- nennen wir sie die "Hippo-Partei" - 
+在第一张选票中赢得了70个选区的选票，
+in 70 Wahlkreisen die Erststimmen gewinnt,
 
 52
 00:03:20,299 --> 00:03:22,780
-gewinnt, schickt sie 70 Abgeordnete in den Bundestag.
+那他就在联邦众议院中占70个席位。
+schickt sie 70 Abgeordnete in den Bundestag.
 
 53
 00:03:22,780 --> 00:03:27,560
+那如果他在第二张选票中
 Doch, was, wenn ihr nach den Zweitstimmen
+得到80个席位呢？
 sogar 80 Abgeordnete zustehen?
 
 54
 00:03:27,560 --> 00:03:30,749
-Die Lösung ist ganz einfach: Das höhere
-Ergebnis zählt.
+结果很简单：
+Die Lösung ist ganz einfach:
+取其中比较大的数字。
+Das höhere Ergebnis zählt.
 
 55
 00:03:30,749 --> 00:03:35,569
-Alle 70 Hippo-Kandidaten, die über die Erststimme
-gewählt wurden, dürfen in den Bundestag
+所以在第一张选票中
+Alle 70 Hippo-Kandidaten,
+选出的这70位河马党候选人
+die über die Erststimme gewählt wurden, 
+
 
 56
 00:03:35,569 --> 00:03:38,238
+允许和另外10位“邦名单”中的候选人
+dürfen in den Bundestag
+一起进入联邦议院。
 und weitere 10 kommen von der "Landesliste".
 
 57
 00:03:38,239 --> 00:03:42,279
-Doch was, wenn es umgekehrt ist und die
-Partei nicht 80 bei der Zweitstimme hat,
+相反的，如果河马党
+Doch was, wenn es umgekehrt ist
+在第二张选票中没有得到80个席位，
+und die Partei nicht 80 bei der Zweitstimme hat,
 
 58
 00:03:42,279 --> 00:03:43,299
+而是只有60个呢？
 sondern nur 60?
 
 59
 00:03:43,300 --> 00:03:48,749
+这种情况下也取那个较大的数字：
 In diesem Fall zählt auch das höhere Ergebnis:
+所以70位河马党候选人都进入联邦议院。
 Alle 70 Hippo-Kandidaten der Erststimme dürfen rein.
 
 60
 00:03:48,749 --> 00:03:52,469
+这超出的10个席位
 Den Unterschied von 10 Abgeordneten
+被称做“延伸议席”。
 nennt man "Überhangmandate".
 
 61
 00:03:52,469 --> 00:03:57,159
+这些“延伸议席”的设立，
 Und diese "Überhangmandate" sorgen dafür,
-dass der Bundestag mit seinen vorgesehenen
+就允许在联邦议院的598位常任议席之外，
+dass der Bundestag mit seinen vorgesehenen 598 Abgeordneten
 
 62
 00:03:57,159 --> 00:04:03,599
-598 Abgeordneten meist viel größer ausfällt.
-Derzeit sind es 620, und in Zukunft werden
+增加议员的数量而不会影响议院运作。
+meist viel größer ausfällt.
+到目前为止是620个议席，
+Derzeit sind es 620, 
 
 63
 00:04:03,599 --> 00:04:06,119
-es wahrscheinlich noch viel mehr sein.
+今后可能还会更多。
+und in Zukunft werden es 
+wahrscheinlich noch viel mehr sein.
 
 64
 00:04:06,120 --> 00:04:11,079
+”延伸议席“ 也不是完全没有作用的：
 "Überhangmandate" waren bisher nicht unproblematisch:
+他们也能影响选举，
 Sie konnten das Ergebnis der Wahl beeinflussen,
 
 65
 00:04:11,079 --> 00:04:13,169
+从而影响政府的执政。
 und zu einer anderen Regierung führen.
 
 66
