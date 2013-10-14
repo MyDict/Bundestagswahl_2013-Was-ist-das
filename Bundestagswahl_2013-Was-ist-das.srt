@@ -218,7 +218,7 @@ für die Erst - und Zweitstimme -
 
 44
 00:02:49,359 --> 00:02:51,359
-这两票不一定必须都投给同一个政党！
+这两张选票不一定必须都投给同一个政党！
 und diese müssen nicht beide an die selbe Partei gehen!
 
 45
@@ -261,7 +261,7 @@ Diese Stimme sagt,
 
 50
 00:03:14,069 --> 00:03:14,999
-德国议院允许有多少候选人席位。
+有多少候选人可以在德国议院中占有一席之地。
 wieviele Kandidaten in den Bundestag dürfen.
 
 51
