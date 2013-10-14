@@ -190,54 +190,79 @@ Wirklich.
 
 40
 00:02:35,000 --> 00:02:39,500
-Die Wahl ist anonym, aber damit keiner zwei
-mal wählen kann, wird man von einer Liste gestrichen
+选举是匿名进行的，
+Die Wahl ist anonym, 
+为了确保没有人能投两次票，
+aber damit keiner zweimal wählen kann, 
+已参加过投票的选民会被从选民单上划去。
+wird man von einer Liste gestrichen
 
 41
 00:02:39,500 --> 00:02:41,870
-Dann erhält man einen Stimmzettel, füllt ihn
+选民领取选票后，
+Dann erhält man einen Stimmzettel,
 
 42
 00:02:41,870 --> 00:02:45,040
-im Geheimen aus und wirft ihn in die bewachte Wahlurne.
+独自填好选票
+füllt ihn im Geheimen aus 
+并把它投入被看守的投票箱。
+und wirft ihn in die bewachte Wahlurne.
 
 43
 00:02:45,040 --> 00:02:49,358
-Auf dem Stimmzettel gibt es 2 Spalten für
-die Erst- und Zweitstimme - und diese müssen
+选票上有两栏 
+Auf dem Stimmzettel gibt es 2 Spalten 
+第一选票 - 和第二选票 -
+für die Erst - und Zweitstimme - 
 
 44
 00:02:49,359 --> 00:02:51,359
-nicht beide an die selbe Partei gehen!
+这两票不一定必须都投给同一个政党！
+und diese müssen nicht beide an die selbe Partei gehen!
 
 45
 00:02:51,359 --> 00:02:56,319
-Die Erststimme geht an einen Kandidaten aus
-dem Wahlkreis. Der kann in einer Partei sein,
+第一选票投给本选区的一位候选人。
+Die Erststimme geht an einen Kandidaten aus dem Wahlkreis. 
+他可以是任一党派人士，
+Der kann in einer Partei sein,
 
 46
 00:02:56,319 --> 00:02:59,810
-oder auch parteilos - was in Deutschland aber
-eher selten erfolgreich ist.
+也可以是位无党派人士
+oder auch parteilos 
+- 但是在德国他很难最终成功当选。
+- was in Deutschland aber eher selten erfolgreich ist.
 
 47
 00:02:59,810 --> 00:03:05,159
-Wer die meisten Stimmen bekommt, gewinnt ein
-Direktmandat und wird automatisch Bundestagsabgeordneter.
+谁的得票数最高，
+Wer die meisten Stimmen bekommt, 
+谁就可以获得直接任命
+gewinnt ein Direktmandat 
+自动当选德国联邦议院成员。
+und wird automatisch Bundestagsabgeordneter.
 
 48
 00:03:05,159 --> 00:03:09,780
+通过第二选票可以选出一个党派。
 Mit der Zweitstimme wählt man eine Partei.
-Genauer gesagt, die "Landesliste", auf der
+也就是，"联邦议会候选人名单",
+Genauer gesagt, die "Landesliste", 
 
 49
 00:03:09,780 --> 00:03:14,069
-sie ihre Kandidaten aufgestellt hat.
-Diese Stimme sagt, wieviele Kandidaten in
+由它来分派你的候选人。
+auf der sie ihre Kandidaten aufgestellt hat.
+这张选票决定了，
+Diese Stimme sagt, 
+
 
 50
 00:03:14,069 --> 00:03:14,999
-den Bundestag dürfen.
+德国议院允许有多少候选人席位。
+wieviele Kandidaten in den Bundestag dürfen.
 
 51
 00:03:14,999 --> 00:03:20,299
