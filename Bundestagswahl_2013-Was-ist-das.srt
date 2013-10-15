@@ -74,118 +74,163 @@ also, zumindest in der Theorie.
 
 16
 00:01:00,200 --> 00:01:05,199
+竞选活动比选举提前一个月左右开始
 Der Bundestagswahl gehen Monate intensiven
-Wahlkampfs in den Medien und auf der Straße
+在媒体和大街上如火如荼的进行着。
+Wahlkampfs in den Medien und auf der Straße voraus,
 
 17
 00:01:05,199 --> 00:01:09,450
-voraus, in denen die Parteien mit mal mehr
+在竞选活动上各党派
+in denen die Parteien mit mal mehr
+会或多或少的宣传各自真诚的观点。
 oder weniger aufrichtigen Botschaften werben.
 
 18
 00:01:09,450 --> 00:01:13,440
+对于大多数公民来说
 Für die meisten Bürger ist es schwer, die
+还难评估政治观点，因此
 politischen Botschaften einzuschätzen, weshalb
 
 19
 00:01:13,440 --> 00:01:18,060
+他们更喜欢参考电视辩论，问卷调查或者
 sich viele lieber an TV-Shows, Umfragen oder
+听信朋友，而不是通篇阅读
 Freunden orientieren, statt die komplizierten
 
 20
 00:01:18,060 --> 00:01:21,920
+复杂的选举项目。
 Wahlprogramme durchzulesen.
+Wahl-O-Mat提供了一个独立的决策支持，
 Eine unabhängige Entscheidungshilfe bietet
 
 21
 00:01:21,920 --> 00:01:26,060
+它能帮助人们，
 der Wahl-O-Mat, der hilft, die eigene Meinung
+对比自己的想法和各党派的观点。
 mit den antretenden Parteien zu vergleichen.
 
 22
 00:01:26,060 --> 00:01:30,670
+
+即使很多选举海报或者电视辩论
 Auch wenn die vielen Wahlplakate oder das
+总是会暗示点其他的东西。
 TV-Duell etwas anderes suggerieren:
 
 23
 00:01:30,670 --> 00:01:35,800
+不仅仅只有总理需要被选举，
 Gewählt wird nicht etwa der/die Kanzler/in,
+联邦议会中的598名“代表我们”的议员
 sondern die 598 Mitglieder des Bundestags,
 
 24
 00:01:35,800 --> 00:01:37,240
+都需要被选举。
 welche uns "repräsentieren".
 
 25
 00:01:37,240 --> 00:01:40,089
+所以人们也称德国为
 Deshalb nennt man Deutschland auch eine
+“代议制民主”。
 "repräsentative Demokratie".
 
 26
 00:01:40,090 --> 00:01:44,920
+拥有多数选民的党派就是执政党，
 Die Parteien, die später die Mehrheit haben,
+然后联邦议员在选举总理。
 sind dann die Regierung und wählen den Kanzler.
 
 27
 00:01:44,920 --> 00:01:48,340
+选举应该尽可能的
 Die Bundestagswahl soll die Bürger-Interessen
+映射选民感兴趣的话题。
 möglichst genau wiederspiegeln.
 
 28
 00:01:48,340 --> 00:01:53,860
+因为有6千2百万选举民众的同时，
 Weil es aber bei rund 62 Millionen Wahlberechtigten
+也有六千两百万个各自的想法。
 auch 62 Millionen Einzelmeinungen gibt,
 
 29
 00:01:53,860 --> 00:01:55,020
+所以选举并不是那么简单。
 ist das nicht so einfach.
 
 30
 00:01:55,020 --> 00:02:00,210
+在德国实行“个性化比例制选举”
 In Deutschland gibt es daher eine "personalisierte
+在这种选举制度下，不仅仅一个人按比例被选举
 Verhältniswahl", in der sowohl eine Person,
 
 31
 00:02:00,210 --> 00:02:02,490
+党派也是按照比例制被选举。
 als auch ein Parteien-Verhältnis gewählt wird.
 
 32
 00:02:02,490 --> 00:02:08,530
+同时，德国被分为
 Dafür ist das Land in 299 Bereiche aufgeteilt,
-die man Wahlkreise nennt. Jeder Wahlkreis
+299个选区。
+die man Wahlkreise nennt. 
 
 33
 00:02:08,530 --> 00:02:11,489
-hat ungefähr gleich viele Bürger,
+每个选区有大约相同数量的选民，
+Jeder Wahlkreis hat ungefähr gleich viele Bürger,
+每个选民拥有两张选票。
 und jeder hat 2 Stimmen.
 
 34
 00:02:11,489 --> 00:02:15,980
+选举就这样开始了：每个选民
 Die Wahl läuft dann so ab: Jeder Wähler
+都会收到一个竞选通知。
 bekommt eine Wahlbenachrichtigung per Post.
 
 35
 00:02:15,980 --> 00:02:20,649
+如果有人选举日没法到达现象，或者在国外
 Wer am Wahltag verhindert ist oder im Ausland
+也可以写信参加选举。
 lebt, kann auch Briefwahl beantragen.
 
 36
 00:02:20,650 --> 00:02:24,790
+其他人都会在8点到18点之间拿着自己身份证
 Alle anderen gehen mit dem Ausweis zwischen
+到当地的选举现场。
 8 und 18 Uhr in ihr Wahllokal.
 
 37
 00:02:24,790 --> 00:02:28,450
+顺便说一下，这可不是酒吧，即使听起来像
 Das ist übrigens keine Bar, auch wenn es
-sich so anhört - sondern ein öffentliches
+而是一个公共建筑
+sich so anhört - sondern ein öffentliches Gebäude,
 
 38
 00:02:28,450 --> 00:02:33,760
-Gebäude, wie Schulen - es gab aber auch schon
+就像学校-当然还有其他的奇怪的地方
+wie Schulen - es gab aber auch schon
+像是坟场或者大篷车！
 kuriose Orte wie Friedhöfe oder Wohnwägen!
 
 39
 00:02:33,760 --> 00:02:35,000
+千真万确。
 Wirklich.
 
 40
