@@ -534,117 +534,163 @@ kleine Parteien werden, die es nicht über
 eine bestimmte Hürde geschafft haben -
 die übrigens auch so heißt: Die 5-PROZENT-HÜRDE.
 
+
 92
 00:05:55,780 --> 00:06:00,989
+这是什么，为什么需要这个？
 Was ist das, und wozu braucht man die?
+这是前纳粹时期的教训之一：
 Eine der Lehren aus der Zeit vor den Nazis war:
 
 93
 00:06:00,990 --> 00:06:05,550
+厨师太多毁了汤。
 Zu viele Köche verderben den Brei.
-Unzählige Kleinstparteien schlugen sich in
+无数小党派在魏玛共和国时期争夺权力
+Unzählige Kleinstparteien schlugen sich in der Weimarer Republik die Köpfe ein 
 
 94
 00:06:05,550 --> 00:06:10,780
-der Weimarer Republik die Köpfe ein und machten
-das Land unregierbar. Die Nazis wiederum nutzten
+并使得国家失控。
+und machten das Land unregierbar.
+纳粹又利用了这次混乱，
+ Die Nazis wiederum nutzten das Chaos, 
 
 95
 00:06:10,780 --> 00:06:13,219
-das Chaos, um an die Macht zu kommen.
+获得权力。
+um an die Macht zu kommen.
 
 96
 00:06:13,220 --> 00:06:17,960
+为了确保稳定的政治大多数，
 Um stabile politische Mehrheiten zu fördern,
-muss eine Partei deshalb mindestens 5% der
+因此一个党派必须至少获得5%的第二选票,
+muss eine Partei deshalb mindestens 5% der Zweitstimmen erhalten,
 
 97
 00:06:17,960 --> 00:06:21,239
-Zweitstimmen erhalten, sonst
-sind ihre Sitze verloren.
+否则他就失去机会。
+ sonst sind ihre Sitze verloren.
 
 98
 00:06:21,240 --> 00:06:26,520
-Es sei denn, sie erhält 3 Direktmandate durch
-Erststimmen - dann gelten die Zweitstimmen wieder!
+除非，
+Es sei denn, 
+他通过第一选票获得3个议会席位
+sie erhält 3 Direktmandate durch Erststimmen 
+- 那么他的第二选票数又有效了！
+- dann gelten die Zweitstimmen wieder!
 
 99
 00:06:26,520 --> 00:06:29,900
+然而，这可能会导致不公平的情况：
 Doch, das kann zu unfairen Situationen führen:
 
 100
 00:06:29,900 --> 00:06:35,840
-Wenn die Hippo-Partei auf 4,8% kommt, aber
-keine Direktmandate hat, wäre sie raus.
+当Hippo党获得4.8%，
+Wenn die Hippo-Partei auf 4,8% kommt, 
+但是没有拿得议会席位，
+aber keine Direktmandate hat, 
+那他也出局了。
+wäre sie raus.
 
 101
 00:06:35,840 --> 00:06:40,679
-Wenn gleichzeitig die Nudel-Partei nur 3%
-bekommt, aber 3 Direktmandate hat, kommt sie
+同时当Nudel党仅获得3%，
+Wenn gleichzeitig die Nudel-Partei nur 3% bekommt, 
+但是拿到3个议会席位，
+aber 3 Direktmandate hat,
 
 102
 00:06:40,680 --> 00:06:47,220
-gleich mit 17 Abgeordneten in den Bundestag!
+那他在联邦议院中立即获得17个席位！
+ kommt sie gleich mit 17 Abgeordneten in den Bundestag!
+598的3%也就是...17.
 3% von 598 Sitzen sind nämlich... 17.
 
 103
 00:06:47,220 --> 00:06:50,810
-Nur 1 Direktmandat weniger und
-die Regelung gälte nicht mehr.
+再少一个议会席位
+Nur 1 Direktmandat weniger 
+制度又不适用了。
+und die Regelung gälte nicht mehr.
 
 104
 00:06:50,810 --> 00:06:55,020
-Die Nudel-Partei käme dann nur mit
-2 Direktmandaten in den Bundestag!
+Nudel党在国会议院中只有两个议会席位！
+Die Nudel-Partei käme dann nur mit 2 Direktmandaten in den Bundestag!
 
 105
 00:06:55,020 --> 00:06:57,960
-So ähnlich verlief es 2002
-bei der PDS, die mit 4%
+这和2002年PDS经历的相似，
+So ähnlich verlief es 2002 bei der PDS, 
 
 106
 00:06:57,960 --> 00:07:03,609
-die Hürde nicht schafften, aber dennoch mit
-2 Direktmandaten in den Bundestag einziehen konnte
+他以4%的得票率没有通过门限，
+die mit 4% die Hürde nicht schafften, 
+但是仅凭两个议会席位就能入主国会议院
+aber dennoch mit 2 Direktmandaten in den Bundestag einziehen konnte 
 
 107
 00:07:04,070 --> 00:07:07,420
-Die Regelung gilt als umstritten und wurde
-schon mehrfach geändert.
+这个制度仍然存有争议
+Die Regelung gilt als umstritten 
+已经被多次修改。
+und wurde schon mehrfach geändert.
 
 108
 00:07:07,420 --> 00:07:12,120
-Einer ihrer Nachteile ist, dass Wähler dadurch
-taktisch wählen und ihre Stimme eher Parteien
+其缺点之一是，
+Einer ihrer Nachteile ist, 
+选民通过战术性的投票
+dass Wähler dadurch taktisch wählen 
+把他们的选票更多投给某些政党，
+und ihre Stimme eher Parteien geben,
 
 109
 00:07:12,120 --> 00:07:16,220
-geben, denen sie mehr Erfolg zutrauen, und
-nicht den Parteien, denen sie nahe stehen.
+他们相信更容易成功的，
+ denen sie mehr Erfolg zutrauen, 
+而不是他们支持的政党。
+und nicht den Parteien, denen sie nahe stehen.
 
 110
 00:07:16,220 --> 00:07:20,460
-Man könnte aber auch sagen, dass genau das
-die Absicht des Regelung war: Politische Interessen
+也可以说，
+Man könnte aber auch sagen, 
+这正是制度的目的：
+dass genau das die Absicht des Regelung war:
+集中政治意愿
+ Politische Interessen zu bündeln 
 
 111
 00:07:20,460 --> 00:07:23,430
-zu bündeln - durch einen Kompromiss.
+- 通过妥协。
+- durch einen Kompromiss.
 
 112
 00:07:23,430 --> 00:07:27,450
-Nachdem alle Stimmen ausgezählt sind und
-die Abgeordneten in den Bundestag einziehen,
+在所有选票都被统计之后
+Nachdem alle Stimmen ausgezählt sind 
+议员们都搬进国会议院。
+und die Abgeordneten in den Bundestag einziehen,
 
 113
 00:07:27,450 --> 00:07:30,860
+接着也有下一个问题：
 ergibt sich auch schon die nächste Frage:
+现在究竟谁统治呢？
 Wer regiert jetzt eigentlich?
 
 114
 00:07:30,860 --> 00:07:36,000
-Das ist trotz der Sitzverteilung gar nicht immer
-sofort klar, denn oft gibt es mehrere Möglichkeiten.
+但是议会席位分配并不总是立即明了，
+Das ist trotz der Sitzverteilung gar nicht immer sofort klar, 
+因为经常存在更多的可能性。
+denn oft gibt es mehrere Möglichkeiten.
 
 115
 00:07:36,000 --> 00:07:39,210
