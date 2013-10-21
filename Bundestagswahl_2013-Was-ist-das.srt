@@ -412,126 +412,172 @@ und zu einer anderen Regierung führen.
 
 66
 00:04:13,169 --> 00:04:19,310
-2009 hatten CDU/CSU und die Linke zwar 2,6%
-weniger Stimmen, aber trotzdem 8 Mandate mehr
+尽管2009年基民盟/基社盟和德国左派党
+2009 hatten CDU/CSU und die Linke
+比社民党、绿党和自民党少了2.6%的选票，
+zwar 2,6% weniger Stimmen, 
+却仍然比他们
+aber trotzdem 8 Mandate mehr
 
 67
 00:04:19,310 --> 00:04:20,600
+多出8个议席！
 als SPD, Grüne und FDP!
 
 68
 00:04:20,600 --> 00:04:23,700
+尽管基民盟/基社盟和左派党不能互相理解-
 CDU/CSU und Linke können sich zwar nicht riechen -
 
 69
 00:04:23,700 --> 00:04:28,060
+但是如果这些党派想要
 aber wenn diese Parteien miteinander
+互相合作，那我们如今
 arbeiten wollen würden, hätten wir heute
 
 70
 00:04:28,060 --> 00:04:30,850
-eine andere Regierung, als es dem
-Wählerwillen entspräche.
+就会有一个
+eine andere Regierung, 
+不符合选民意愿的政府了。
+als es dem Wählerwillen entspräche.
 
 71
 00:04:30,850 --> 00:04:35,420
+另一方面也有可能会出现糟糕的垮台情况，
 Andererseits kann auch der ungünstige Fall
+一个政党由于附加的
 eintreten, dass eine Partei durch zusätzliche
 
 72
 00:04:35,420 --> 00:04:39,500
+第二选票而 失去 一个席位，
 Zweitstimmen einen Sitz VERLIERT,
+就像社民党在2002年发生的情况一样。
 wie es 2002 der SPD erging.
 
 73
 00:04:39,500 --> 00:04:41,810
+这被人们称作“消极的选票影响力”。
 Das nennt man "Negatives Stimmgewicht".
 
 74
 00:04:41,810 --> 00:04:46,870
+德国联邦宪法法院2008年裁定，
 Das Bundesverfassungsgericht entschied 2008,
+至今为止的规则都是违宪的，
 dass die bisherige Regelung verfassungswidrig sei
 
 75
 00:04:46,870 --> 00:04:47,900
+必须重新制定。
 und neu geregelt werden müsse.
 
 76
 00:04:47,900 --> 00:04:52,060
+然而执政党们
 Die regierenden Parteien
+在之后那年的联邦议会选举中，
 ignorierten das Urteil jedoch
 
 77
 00:04:52,060 --> 00:04:56,010
+都忽略了这一裁定-
 bei der Bundesttagswahl im Jahr darauf -
+原因可能是，他们能够从旧的规则中
 was vielleicht daran liegt, dass sie von
 
 78
 00:04:56,010 --> 00:05:01,330
+获得更多的利益。
 der alten Regelung profitierten.
+基民盟/基社盟当时得到了24个额外议席！
 CDU/CSU erhielten damals 24 zusätzliche Sitze!
 
 79
 00:05:01,330 --> 00:05:05,340
-Und wer nimmt sich selbst
-schon gern die Sitze weg?
+谁愿意失去自己的议席呢？
+Und wer nimmt sich selbst schon gern die Sitze weg?
 
 80
 00:05:05,340 --> 00:05:09,380
+直到2012年，这一法律才用所谓的
 Geändert wurde das Gesetz erst 2012
+“均衡议席”进行了改变。
 mit sogenannten "Ausgleichsmandaten".
 
 81
 00:05:09,380 --> 00:05:14,370
+通过它，“延伸议席”中的议席
 Durch sie werden bei "Überhangmandaten" gleichmässig
+被均匀地分配给所有其他的政党，
 Sitze auf alle anderen Parteien verteilt,
 
 82
 00:05:14,370 --> 00:05:17,350
+直到第二选票的比例
 bis das Verhältnis der Zweitstimmen
+重新被恢复为止。
 wiederhergestellt ist.
 
 83
 00:05:17,350 --> 00:05:22,060
+第一选票和第二选票的比例如此复杂
 Das komplizierte Verhältnis von Erst- und
+当然是有原因的：
 Zweitstimmen hat natürlich einen Grund:
 
 84
 00:05:22,060 --> 00:05:26,590
+它使选民们更加灵活自由。
 Es gibt den Wählern mehr Flexibilität.
+比如，也许我想要成为河马党的忠实粉丝，
 So mag ich vielleicht Fan der Hippo-Partei sein,
 
 85
 00:05:26,590 --> 00:05:31,849
+但是，在我的选区，
 aber vielleicht finde ich ausgerechnet in meinem
+我却觉得面条党的候选人更好一些。
 Wahlkreis den Kandidaten der Nudel-Partei viel besser.
 
 86
 00:05:31,850 --> 00:05:36,550
+这样一来，第一选票我就会选面条党候选人，
 Dann wähle ich mit der Erststimme den Nudel-Kandidaten
+第二选票选河马党候选人。
 und mit der Zweitstimme die Hippo-Partei.
 
 87
 00:05:36,550 --> 00:05:39,510
+或者我想提名一个无党派候选人
 Oder ich möchte einen parteilosen Kandidaten
 
 88
 00:05:39,510 --> 00:05:43,550
+进入联邦议会-或是一个
 in den Bundestag befördern - oder einen,
+不在联邦议会候选人名单上的人，
 der nicht auf einer Landesliste aufgestellt wurde,
 
 89
 00:05:43,550 --> 00:05:47,320
+比如2002年绿党的Christian Ströbele。
 wie z.B. 2002 der Grüne Christian Ströbele.
 
 90
 00:05:47,320 --> 00:05:50,870
+除此之外，第一选票还可以成为
 Außerdem kann die Erststimme zum Retter für
+没有越过一定障碍的
 kleine Parteien werden, die es nicht über
 
 91
 00:05:50,870 --> 00:05:55,780
+小党派的救星-
 eine bestimmte Hürde geschafft haben -
+此外，这也被称作：5%障碍。
 die übrigens auch so heißt: Die 5-PROZENT-HÜRDE.
 
 
